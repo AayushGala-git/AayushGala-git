@@ -13,7 +13,7 @@ I’m a highly motivated professional with a strong foundation in data science, 
 ## 🛠️ Tech Stack
 
 ### Programming Languages:
-- Python | R | SQL | Java | C++ | Go | PHP | JavaScript  
+- C | Python | R | SQL | Java | C++ | Go | PHP | JavaScript  
 
 ### Tools & Software:
 - **Data Analysis & Visualization:** Tableau | Power BI | Advanced Excel | Gretl  
