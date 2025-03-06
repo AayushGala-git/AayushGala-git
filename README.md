@@ -1,6 +1,6 @@
 # Hi there, I'm Aayush! 👋
 
-**Aspiring Data Scientist** | **Software Developer**  
+**Aspiring Data Scientist** | **AI/ML Developer**  
 I’m a highly motivated professional with a strong foundation in data science, software development, and AI-driven solutions. Passionate about leveraging cutting-edge technologies to solve complex real-world problems, I specialize in predictive modeling, machine learning, and scalable application development. With hands-on experience in building AI-powered systems, crafting interactive platforms, and optimizing software performance, I strive to create impactful solutions that drive innovation. Currently pursuing an MSc in Computer Science - Data Science, I am eager to contribute to projects that make a difference.
 
 🌟 MSc in Computer Science - Data Science  
